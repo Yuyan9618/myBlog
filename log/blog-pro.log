@@ -1,0 +1,9 @@
+2021-09-06 14:11:27.985  WARN 9324 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.zzy.myblog]' package. Please check your configuration.
+2021-09-06 14:14:02.807  WARN 7428 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.zzy.myblog]' package. Please check your configuration.
+2021-09-06 14:15:42.666  WARN 616 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.zzy.myblog]' package. Please check your configuration.
+2021-09-06 14:24:03.090  WARN 13072 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.zzy.myblog]' package. Please check your configuration.
+2021-09-06 14:25:15.663  WARN 14740 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.zzy.myblog]' package. Please check your configuration.
+2021-09-06 17:15:12.974  INFO 13500 --- [restartedMain] com.zzy.MyblogApplication         : Starting MyblogApplication on DESKTOP-HGH3IM8 with PID 13500 (C:\Users\11145\Desktop\Projects\IdeaProjects\myblog\target\classes started by 11145 in C:\Users\11145\Desktop\Projects\IdeaProjects\myblog)
+2021-09-06 17:15:12.989  INFO 13500 --- [restartedMain] com.zzy.MyblogApplication         : The following profiles are active: pro
+2021-09-06 17:15:14.013  WARN 13500 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.zzy.myblog]' package. Please check your configuration.
+2021-09-06 17:15:16.426  INFO 13500 --- [restartedMain] com.zzy.MyblogApplication         : Started MyblogApplication in 4.132 seconds (JVM running for 5.076)
